@@ -2,3 +2,4 @@ this is a line one from file1
 this is a line two from file2
 
 this line should go to new branch
+one more line is added
