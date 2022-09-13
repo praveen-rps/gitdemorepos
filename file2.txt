@@ -1,2 +1,5 @@
 this is line one from file2
 this is line two from file2
+
+
+This new line will be displayed only on mynewbranch
